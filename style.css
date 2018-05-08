@@ -1,0 +1,47 @@
+*{
+	box-sizing: border-box;
+	background-color: #FFD353  ;
+}
+body{
+	margin: 0;
+	font-family: sans-serif;
+	width: 500px;
+	max-width: 100%;
+	margin: auto;
+	margin-top: 30px;
+}
+.juego{
+	width: 500px;
+	max-width: 100%;
+	margin: auto;
+	margin-top: 30px;
+
+}
+
+
+button{
+	display: inline-block;
+	background-color: #53FFCD ;
+
+}
+h1{
+	color: yellow;
+}
+h2{
+	color: orange;
+}
+
+#respuestasOk{
+	background-color: #7FFF6B  ;
+	margin: 0;
+	width: 50%
+}
+#respuestasMalas{
+	background-color: #FA310E  ;
+}
+.respuestas{
+	width: 50%;
+	height: auto;
+
+}
+
